@@ -45,7 +45,7 @@ versicolor             1.326
 virginica              2.026  
 
 Summary Statistics:
-        sepal length (cm)  sepal width (cm)  petal length (cm)  \
+        sepal length (cm)    sepal width (cm)   petal length (cm)  \
 count       1.500000e+06      1.500000e+06       1.500000e+06   
 mean        5.843333e+00      3.057333e+00       3.758000e+00   
 std         8.253016e-01      4.344111e-01       1.759405e+00   
@@ -55,6 +55,7 @@ min         4.300000e+00      2.000000e+00       1.000000e+00
 75%         6.400000e+00      3.300000e+00       5.100000e+00   
 max         7.900000e+00      4.400000e+00       6.900000e+00   
 ...
+
 25%        3.000000e-01  
 50%        1.300000e+00  
 75%        1.800000e+00  
