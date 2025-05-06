@@ -18,9 +18,7 @@ This Python script demonstrates scalable data analysis using the Iris dataset an
 2.Simulate Large Data: Repeats the dataset 10,000 times to simulate a large dataset (~1.5 million rows).
 3.Convert to Dask DataFrame: Converts the large pandas DataFrame to a Dask DataFrame with 10 partitions for parallel processing.
 4.Data Analysis with Dask:
->Counts the number of records per species.
->Calculates average feature values (sepal and petal dimensions) for each species.
->Generates summary statistics (mean, std, min, max, etc.) for the entire dataset.
+Counts the number of records per species.Calculates average feature values (sepal and petal dimensions) for each species.Generates summary statistics (mean, std, min, max, etc.) for the entire dataset.
 5.Save Results: Writes the species counts, average features, and summary statistics to separate CSV files.
 This script is useful for learning how to scale data analysis workflows using Dask, especially when working with datasets too large to fit into memory.
 
